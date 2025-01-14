@@ -1,0 +1,12 @@
+﻿  Address.cpp
+  Customer.cpp
+  Date.cpp
+  Medication.cpp
+  OffTheShelf.cpp
+  Pharmacy.cpp
+C:\PSUT - Data Science and AI\2023 - 2024 First\OOP\Project\Phase3\Phase3\Pharmacy.cpp(222,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\PSUT - Data Science and AI\2023 - 2024 First\OOP\Project\Phase3\Phase3\Pharmacy.cpp(228,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Phase3.cpp
+  Prescription.cpp
+  Generating Code...
+  Phase3.vcxproj -> C:\PSUT - Data Science and AI\2023 - 2024 First\OOP\Project\Phase3\x64\Debug\Phase3.exe
